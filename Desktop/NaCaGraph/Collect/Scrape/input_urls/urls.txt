@@ -1,7 +1,0 @@
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=climate+change
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=drought
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=earthquake
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=forest_fire
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=greenhouse
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=high_temperature
-https://en.wikinews.org/w/index.php?title=Special:Search&limit=100&offset=0&ns0=1&search=wildfire
